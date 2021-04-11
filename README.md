@@ -2,7 +2,6 @@
 - Interested in web development.
 - UI/UX is as important as performance.
 - But nothing is more important than performance.
-- I like tuttles. 🐢
  
 
 <div align="center">
