@@ -1,10 +1,10 @@
-## Junior FE Developer
+## Junior Frontend Developer
 안녕하세요! 천정호입니다.
 
 ## 📓 Skills
 ### Frontend
 
-- HTML5, CSS, Javascript(ES6+), Typescript, Dart
+- HTML5, CSS3, Javascript(ES6+), Typescript, Dart
 - React.js, Redux(React-redux, React-toolkit), socket.io
 - Sass, Styled-Components, framer motion
 - Flutter, Next.js
@@ -12,13 +12,13 @@
 ### Backend
 
 - Java, Node.js
-- Spring Boot, Spring Data JPA, Spring Security
+- Spring Boot, Spring Data JPA, Spring Security, Spring Cloud
 - express, mongoose, socket.io
-- Nginx, Mysql, MongoDB
+- Nginx, Mysql, MongoDB, DynamoDB
 
 ### Infra
 
-- AWS EC2, API Gateway, Lambda, S3, DynamoDB
+- AWS EC2, API Gateway, Lambda, S3
 - GCP Compute Engine, Cloud Storage
 - docker, docker-compose
 
