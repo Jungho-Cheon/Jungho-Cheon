@@ -24,9 +24,6 @@
 
 
 ## 🧑‍💻 Experience & Projects
-
----
-
 ### Capston Project
 유어 보이스(User Voice)(2019.3)
 ### 미식한 고독가
