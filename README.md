@@ -33,7 +33,7 @@
 #### 미식한 고독가
 SW마에스트로(2020.6)
 [https://github.com/Jungho-Cheon/MSG-app](https://github.com/Jungho-Cheon/MSG-app)
-#### [TALKI](https://talki.link)
+#### [TALKI](https://talki.link) (WIP)
 사이드 프로젝트 (2021.1) 
 [https://github.com/Jungho-Cheon/chat-app](https://github.com/Jungho-Cheon/chat-app)
 <div align="center">
