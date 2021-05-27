@@ -13,8 +13,7 @@
 
 ### Backend
 
-- Java, Node.js
-- Spring Boot, Spring Data JPA, Spring Security, Spring Cloud
+- Node.js
 - express, mongoose, socket.io
 - Nginx, Mysql, MongoDB, DynamoDB
 
