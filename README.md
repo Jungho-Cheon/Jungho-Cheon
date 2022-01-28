@@ -1,4 +1,4 @@
-# Junior Frontend Developer
+# FE Developer
 안녕하세요! 천정호입니다.
 
 <details>
