@@ -3,25 +3,11 @@
 
 <details>
     <summary>📓 Skills</summary>
-
-### Frontend
-
+    
 - HTML5, CSS3, Javascript(ES6+), Typescript, Dart
 - React.js, Redux(React-redux, React-toolkit), socket.io
 - Sass, Styled-Components, framer motion
 - Flutter, Next.js
-
-### Backend
-
-- Node.js
-- express, mongoose, socket.io
-- Nginx, Mysql, MongoDB, DynamoDB
-
-### Infra
-
-- AWS EC2, API Gateway, Lambda, S3
-- GCP Compute Engine, Cloud Storage
-- docker, docker-compose
 
 </details>
 <details>
