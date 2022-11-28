@@ -1,10 +1,9 @@
 # FE Developer
 
-## Stacks
+## 🔬 Stacks
     
 - HTML5, CSS3, Javascript(ES6+), Typescript
-- React.js, Redux(React-redux, React-toolkit), react-query, socket.io
-- Sass, Styled-Components
+- React.js, Vue.js,
+- Redux(React-redux, React-toolkit), React-query, Socket.io
+- Sass, Styled-Components, Tailwindcss 
 - React Native, Next.js
-
-
