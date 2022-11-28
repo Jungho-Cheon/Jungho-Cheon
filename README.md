@@ -3,7 +3,7 @@
 ## 🔬 Stacks
     
 - HTML5, CSS3, Javascript(ES6+), Typescript
-- React.js, Vue.js,
+- React.js, Vue.js
 - Redux(React-redux, React-toolkit), React-query, Socket.io
 - Sass, Styled-Components, Tailwindcss 
 - React Native, Next.js
