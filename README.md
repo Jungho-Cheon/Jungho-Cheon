@@ -25,7 +25,9 @@ CSS          12 hrs 16 mins  -------------------------   01.58 %
 
 ## 🛠️ **Tech Stack**
 
-<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=#61DAFB" alt="React logo" title="React" height="25" />
+<div style="display: flex;">
+  
+<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=#61DAFB" alt="React logo" title="React" height="25" /> 
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=#000000" alt="Next.js logo" title="Next.js" height="25" />
 <img src="https://img.shields.io/badge/Vue-282C34?logo=Vue.js&logoColor=#4FC08D" alt="Next.js logo" title="Vue" height="25" />
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
@@ -52,6 +54,7 @@ CSS          12 hrs 16 mins  -------------------------   01.58 %
 <img src="https://img.shields.io/badge/Iterm2-282C34?logo=iterm2" alt="iterm2 logo" title="iterm2" height="25" />
 <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+</div>
 
 ---
 
