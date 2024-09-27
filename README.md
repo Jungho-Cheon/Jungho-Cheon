@@ -1,4 +1,7 @@
-# WEB FE Developer
+# Hello, I'm Jung Ho 👋 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🔬 Stacks
     
