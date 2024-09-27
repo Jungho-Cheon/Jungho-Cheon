@@ -1,6 +1,6 @@
 # Hello, I'm JungHo Cheon 👋 
 
-## 📊 Time spent writing code this week
+## 📊 Time spent writing code this month
 
 <!--START_SECTION:waka-->
 
