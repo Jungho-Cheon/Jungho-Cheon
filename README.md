@@ -40,12 +40,12 @@ TypeScript   3 mins          >------------------------   03.67 %
 <img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io" alt="socket.io logo" title="socket.io" height="25" />
 <img src="https://img.shields.io/badge/Webpack-282C34?logo=webpack" alt="Webpack logo" title="Webpack" height="25" />
 <img src="https://img.shields.io/badge/Vite-282C34?logo=vite" alt="Vite logo" title="Vite" height="25" />
+<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="docker logo" title="docker" height="25" />
 <img src="https://img.shields.io/badge/Turborepo-282C34?logo=Turborepo" alt="turborepo logo" title="turborepo" height="25" />
 <img src="https://img.shields.io/badge/Github Workflows-282C34?logo=Github" alt="github logo" title="github" height="25" />
 <img src="https://img.shields.io/badge/Postman-282C34?logo=postman" alt="postman logo" title="postman" height="25" />
 <img src="https://img.shields.io/badge/Iterm2-282C34?logo=iterm2" alt="iterm2 logo" title="iterm2" height="25" />
-<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 </div>
 
