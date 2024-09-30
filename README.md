@@ -4,14 +4,19 @@
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 22 September 2024 - To: 29 September 2024
+```typescript
+From: 23 September 2024 - To: 30 September 2024
 
-Total Time: 1 hr 22 mins
+Total Time: 6 hrs 15 mins
 
-Markdown     1 hr 5 mins     >>>>>>>>>>>>>>>>>>>>-----   79.43 %
-YAML         13 mins         >>>>---------------------   16.90 %
-TypeScript   3 mins          >------------------------   03.67 %
+TypeScript    4 hrs 22 mins   >>>>>>>>>>>>>>>>>--------   69.56 %
+Markdown      1 hr 5 mins     >>>>---------------------   17.39 %
+TSConfig      14 mins         >------------------------   03.72 %
+YAML          13 mins         >------------------------   03.70 %
+JSON          10 mins         >------------------------   02.72 %
+JavaScript    5 mins          -------------------------   01.57 %
+CSS           2 mins          -------------------------   00.55 %
+Other         1 min           -------------------------   00.42 %
 ```
 
 <!--END_SECTION:waka-->
