@@ -1,4 +1,4 @@
-# Hello, I'm JungHo Cheon 👋 
+# Hello, I'm Jungho Cheon 👋 
 
 
 
