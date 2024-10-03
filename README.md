@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 25 September 2024 - To: 02 October 2024
+From: 26 September 2024 - To: 03 October 2024
 
-Total Time: 12 hrs 36 mins
+Total Time: 19 hrs 10 mins
 
-TypeScript    10 hrs 18 mins  >>>>>>>>>>>>>>>>>>>>-----   78.31 %
-Markdown      1 hr 5 mins     >>-----------------------   08.30 %
-Other         33 mins         >------------------------   04.26 %
+TypeScript    16 hrs 1 min    >>>>>>>>>>>>>>>>>>>>-----   80.89 %
+Markdown      1 hr 5 mins     >------------------------   05.51 %
+Other         37 mins         >------------------------   03.18 %
 ```
 
 <!--END_SECTION:waka-->
