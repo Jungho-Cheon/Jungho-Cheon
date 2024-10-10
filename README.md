@@ -5,17 +5,20 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 02 October 2024 - To: 09 October 2024
+From: 03 October 2024 - To: 10 October 2024
 
-Total Time: 24 hrs 41 mins
+Total Time: 21 hrs 49 mins
 
-TypeScript    19 hrs 52 mins  >>>>>>>>>>>>>>>>>>>>-----   80.28 %
-JavaScript    2 hrs 53 mins   >>>----------------------   11.66 %
-JSON          52 mins         >------------------------   03.55 %
-CSS           33 mins         >------------------------   02.24 %
-Ruby          20 mins         -------------------------   01.41 %
-HTML          6 mins          -------------------------   00.46 %
-Other         4 mins          -------------------------   00.28 %
+TypeScript    14 hrs 21 mins  >>>>>>>>>>>>>>>>---------   65.82 %
+JavaScript    5 hrs 6 mins    >>>>>>-------------------   23.40 %
+JSON          42 mins         >------------------------   03.27 %
+CSV           39 mins         >------------------------   03.05 %
+Ruby          31 mins         >------------------------   02.39 %
+CSS           14 mins         -------------------------   01.11 %
+HTML          6 mins          -------------------------   00.52 %
+Vue.js        4 mins          -------------------------   00.35 %
+TSConfig      0 secs          -------------------------   00.05 %
+YAML          0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
