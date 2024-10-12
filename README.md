@@ -5,18 +5,18 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 04 October 2024 - To: 11 October 2024
+From: 11 September 2024 - To: 11 October 2024
 
-Total Time: 25 hrs 26 mins
+Total Time: 46 hrs 36 mins
 
-TypeScript    16 hrs 56 mins  >>>>>>>>>>>>>>>>>--------   66.37 %
-JavaScript    5 hrs 28 mins   >>>>>--------------------   21.42 %
-JSON          1 hr 8 mins     >------------------------   04.47 %
-CSV           54 mins         >------------------------   03.53 %
-Ruby          24 mins         -------------------------   01.57 %
-CSS           14 mins         -------------------------   00.94 %
-HTML          6 mins          -------------------------   00.44 %
-Other         5 mins          -------------------------   00.39 %
+TypeScript    33 hrs 15 mins  █████████████████▓░░░░░░░   70.25 %
+JavaScript    7 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
+JSON          1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Markdown      1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+CSV           54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+CSS           45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Ruby          45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Other         43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
