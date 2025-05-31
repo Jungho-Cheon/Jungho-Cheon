@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 30 April 2025 - To: 30 May 2025
+From: 01 May 2025 - To: 31 May 2025
 
 Total Time: 66 hrs 6 mins
 
