@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 13 September 2025 - To: 13 October 2025
+From: 14 September 2025 - To: 14 October 2025
 
 Total Time: 5 hrs 51 mins
 
